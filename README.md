@@ -20,8 +20,12 @@ There are two versions of this plugin:
 - legacy: Uses a bridge script and does not require you to install any extra packages into Vencord. Switch to the `legacy-bridge` branch for this version.
 
 ### Install instructions
-- Clone this repo to `src/userplugins`
-- Build Vencord with `pnpm build`
+
+-  go to src/userplugins and open your terminal/cmd and do `git clonehttps://github.com/nyakowint/vc-premid.git`
+- `cd vc-premid`
+- `npm i -g pnpm` 
+- `pnpm i` 
+- go back to user plugin folder then `pnpm build`
 - Fully restart Discord (Settings > Vencord > Restart Client)
 
 - For `legacy-bridge` branch, switch to it and follow the instructions there.
