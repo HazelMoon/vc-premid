@@ -21,7 +21,7 @@ There are two versions of this plugin:
 
 ### Install instructions
 
--  go to src/userplugins and open your terminal/cmd and do `git clonehttps://github.com/nyakowint/vc-premid.git`
+-  go to src/userplugins and open your terminal/cmd and do `git clone https://github.com/nyakowint/vc-premid.git`
 - `cd vc-premid`
 - `npm i -g pnpm` 
 - `pnpm i` 
